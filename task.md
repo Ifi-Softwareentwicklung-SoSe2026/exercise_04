@@ -8,12 +8,16 @@
 - Achtung: Der link in der LiaScript Datei zeigt auf das Template Repository, nicht auf ihr eigenes Repository. Bitte den Link entsprechend anpassen, oder direkt auf https://liascript.github.io die URL ihrer Datei eingeben zum rendern des Kurses.
 - Nutze einen eigenen branch dafür und erstelle einen Pull Request, damit die Änderungen in den main branch gemerged werden können.
 
-# Part 2 -- Rework the UML Class Diagram
+# Part 2 -- Rework the UML Class Diagram as Target Architecture
 
-- Überprüfe die Funktionalität des Programms
-- Welche Softwarearchtitektonischen Änderungen sollten vorgenommen werden, um die Funktionalität zu verbessern?
-- Ändere das UML Klassendiagramm entsprechend und dokumentiere die Änderungen in der README.md Datei.
-- Alle Änderungen wiederrum in einem eigenen branch vornehmen und einen Pull Request erstellen, damit die Änderungen in den main branch gemerged werden können.
+- Überprüfe die aktuelle Funktionalität und Struktur des Programms im Ordner `robots_exercise`.
+- Identifiziere softwarearchitektonische Schwächen oder Verbesserungsmöglichkeiten, z. B. Verantwortlichkeiten, Kopplung, Erweiterbarkeit oder Wiederverwendung.
+- Entwirf daraus eine verbesserte Zielarchitektur als UML-Klassendiagramm.
+- Ändere dafür ausschließlich die Dokumentation in der `README.md` Datei.
+- Nimm in diesem Part noch keine Änderungen am CSharp-Code vor. Die Implementierung der Zielarchitektur erfolgt erst in Part 3.
+- Das UML-Diagramm darf daher bewusst von der aktuellen Code-Struktur abweichen, muss diese Abweichungen aber nachvollziehbar dokumentieren.
+- Dokumentiere zusätzlich kurz, welche Architekturänderungen vorgeschlagen werden und warum.
+- Alle Änderungen wiederum in einem eigenen Branch vornehmen und einen Pull Request erstellen, damit die Änderungen in den `main` Branch gemerged werden können.
 
 # Part 3 -- Implement the UML Class Diagram in CSharp
 
