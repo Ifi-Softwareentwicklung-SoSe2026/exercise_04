@@ -2,7 +2,7 @@
 
 author:   Volker Göhler
 email:    volker.goehler@informatik.tu-freiberg.de
-version:  0.0.1
+version:  0.0.2
 language: de
 narrator: Deutsch Female
 
@@ -414,3 +414,33 @@ note top of Himmelskoerper: Basisklasse für alle Himmelskörper.
 5. Enums für Typdefinitionen.
 6. Pakete zur Gruppierung.
 7. Notizen für Erläuterungen.
+
+## Part 1: UML Diagram zum Code in `robots_exercise`
+
+Hier bitte den Code aus `robots_exercise` in ein UML Diagramm überführen.
+
+
+```text @plantUML
+@startuml
+
+Arbeiten Sie hier !!!
+
+@enduml
+```
+@plantUML.eval(png)
+
+
+## Part 2: Überarbeitung des UML Diagrams
+
+Hier soll das überarbeitete UML Diagramm zum Code in `robots_exercise` erstellt werden.
+
+
+```text @plantUML
+@startuml
+
+Arbeiten Sie hier !!!
+
+@enduml
+```
+@plantUML.eval(png)
+
