@@ -15,7 +15,7 @@
 - Ändere das UML Klassendiagramm entsprechend und dokumentiere die Änderungen in der README.md Datei.
 - Alle Änderungen wiederrum in einem eigenen branch vornehmen und einen Pull Request erstellen, damit die Änderungen in den main branch gemerged werden können.
 
-# Part 3 -- Implement the UML Class Diagram in Python
+# Part 3 -- Implement the UML Class Diagram in CSharp
 
 - Implementiere alle Änderungen am CSharp Code.
 - Achte darauf, dass die Funktionalität des Programms erhalten bleibt.
